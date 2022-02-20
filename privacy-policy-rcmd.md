@@ -11,8 +11,8 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 In this application, we will never collect any of your data. Also, it does not link to a local or online database. This app sends commands to your server running on your computer. So it is a local server application and it does not save commands.
 The app does use third-party services that may collect information used to identify you. Link to the privacy policy of third-party service providers used by the app
 
-* Google Play Services
-* AdMob
+*   [Google Play Services](https://www.google.com/policies/privacy/)
+*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 
 ### Cookies  
 Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
